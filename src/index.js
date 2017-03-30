@@ -1,4 +1,4 @@
-const Velocity = require('velocity')
+const Velocity = require('velocity-animate')
 import { findParent } from 'utility/dist'
 
 const Toggle = ({
